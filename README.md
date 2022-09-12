@@ -1,4 +1,4 @@
-# SQL_data_wrangling
+# SQL_data_wrangling (in PostgreSQL)
 
 This project contains code which obtains more insightful information of German population data using PostgreSQL.
 
